@@ -1,0 +1,29 @@
+{
+  "name": "moviefinder",
+  "version": "1.0.0",
+  "description": "sample app for movie finder using react js",
+  "main": "index.js",
+  "devDependencies": {
+    "browserify": "*",
+    "flux": "*",
+    "gulp": "*",
+    "reactify": "*",
+    "vinyl-source-stream": "*",
+    "object-assign": "*"
+  },
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "movie",
+    "finder",
+    "react",
+    "akhiesh"
+  ],
+  "author": "Akhilesh Vemperala",
+  "license": "ISC"
+}
